@@ -15,6 +15,7 @@
 		452A7F1C2BFE44E20094A8C6 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 452A7F1B2BFE44E20094A8C6 /* Base */; };
 		452A7F242BFF7D700094A8C6 /* AnasayfaViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452A7F232BFF7D700094A8C6 /* AnasayfaViewModel.swift */; };
 		452A7F272BFF80020094A8C6 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 452A7F262BFF80020094A8C6 /* RxSwift */; };
+		452A7F292BFF814C0094A8C6 /* MatematikRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452A7F282BFF814C0094A8C6 /* MatematikRepository.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		452A7F1B2BFE44E20094A8C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		452A7F1D2BFE44E20094A8C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		452A7F232BFF7D700094A8C6 /* AnasayfaViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnasayfaViewModel.swift; sourceTree = "<group>"; };
+		452A7F282BFF814C0094A8C6 /* MatematikRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatematikRepository.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				452A7F112BFE44E10094A8C6 /* SceneDelegate.swift */,
 				452A7F132BFE44E10094A8C6 /* ViewController.swift */,
 				452A7F232BFF7D700094A8C6 /* AnasayfaViewModel.swift */,
+				452A7F282BFF814C0094A8C6 /* MatematikRepository.swift */,
 				452A7F152BFE44E10094A8C6 /* Main.storyboard */,
 				452A7F182BFE44E20094A8C6 /* Assets.xcassets */,
 				452A7F1A2BFE44E20094A8C6 /* LaunchScreen.storyboard */,
@@ -153,6 +156,7 @@
 				452A7F102BFE44E10094A8C6 /* AppDelegate.swift in Sources */,
 				452A7F242BFF7D700094A8C6 /* AnasayfaViewModel.swift in Sources */,
 				452A7F122BFE44E10094A8C6 /* SceneDelegate.swift in Sources */,
+				452A7F292BFF814C0094A8C6 /* MatematikRepository.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
